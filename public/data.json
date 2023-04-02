@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "album": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010127.jpg?size=626&ext=jpg&ga=GA1.2.1754472231.1680234116&semt=sph",
+      "name": "Tips for Programming Beginners",
+      "authorImg": "https://img.freepik.com/free-photo/portrait-smiling-caucasian-senior-businessman_1262-2142.jpg?size=626&ext=jpg&ga=GA1.1.1754472231.1680234116&semt=sph",
+      "authorName":"Mr. Sadiq",
+      "publishDate":"Mar 5 (9 Days ago)",
+      "time":"08"
+    },
+    {
+      "id": "2",
+      "album": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
+      "name": "How to get your first job as a self-taught programmer",
+      "authorImg": "https://img.freepik.com/free-photo/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded_171337-1267.jpg?size=626&ext=jpg&ga=GA1.1.1754472231.1680234116&semt=sph",
+      "authorName":"Mr. Raju",
+      "publishDate":"Mar 14 (4 Days ago)",
+      "time":"05"
+    },
+    {
+      "id": "3",
+      "album": "https://img.freepik.com/premium-photo/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_236854-23136.jpg?w=996",
+      "name": "Best Document Tracking Systems In 2023!",
+      "authorImg": "https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg?size=626&ext=jpg&ga=GA1.1.1754472231.1680234116&semt=sph",
+      "authorName":"Mr. Noman",
+      "publishDate":"Mar 19 (10 Days ago)",
+      "time":"10"
+    },
+    {
+      "id": "4",
+      "album": "https://t4.ftcdn.net/jpg/04/90/33/39/240_F_490333979_EQdf0tNa0W7MdstKjrGwnjQjoxfYP2zO.jpg",
+      "name": "Candidate Guides",
+      "authorImg": "https://img.freepik.com/free-photo/happy-bearded-young-man-looks-with-joyful-expression-has-friendly-smile-wears-yellow-sweater-red-hat_295783-1388.jpg?size=626&ext=jpg&ga=GA1.1.1754472231.1680234116&semt=sph",
+      "authorName":"Mr. Shovo",
+      "publishDate":"Mar 1 (28 Days ago)",
+      "time":"12"
+    }
+  ]
