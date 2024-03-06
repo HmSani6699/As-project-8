@@ -10,7 +10,6 @@ function App() {
     name: "",
     age: "",
     address: "",
-    gram: "",
   });
   return (
     <div className="App">
